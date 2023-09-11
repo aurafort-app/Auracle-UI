@@ -1,6 +1,6 @@
 # Auracle-UI: Modern User Interface Framework
 
-                                                    ![Auracle-UI Logo](https://avatars.githubusercontent.com/u/144702759?s=400&u=180e5b4c350d237955e8e0353fa6159a51da72c5&v=4)
+![Auracle-UI Logo](https://avatars.githubusercontent.com/u/144702759?s=400&u=180e5b4c350d237955e8e0353fa6159a51da72c5&v=4)
 
 Auracle-UI is a cutting-edge user interface framework that empowers developers to create stunning and responsive web applications with ease. Our framework is designed to provide a comprehensive suite of UI components and styles, similar in concept to popular frameworks like Bootstrap and Materialize, but with a distinct focus on modern aesthetics, flexibility, and performance.
 
